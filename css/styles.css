@@ -12,3 +12,18 @@ body {
     background-color: #fcfcfe;
     color: #1a1a1a;
     line-height: 1.75;
+}
+
+h1,
+h2 {
+    color: #3e0d6e;
+    margin-bottom: 0.5rem;
+}
+
+header,
+footer {
+    background-color: #3e0d6e;
+    color: #fefefe;
+    text-align: center;
+    padding: 1rem;
+    font-weight: bold;
