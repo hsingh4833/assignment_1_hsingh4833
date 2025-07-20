@@ -1,0 +1,14 @@
+/* styles.css - Assignment 2 - Harpreet Singh */
+
+/* Global Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fcfcfe;
+    color: #1a1a1a;
+    line-height: 1.75;
